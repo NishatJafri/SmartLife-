@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120765921327",
+    "project_id": "smartlifepersonal-3a8c2",
+    "storage_bucket": "smartlifepersonal-3a8c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120765921327:android:704e9d83a5a9b6af586eda",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDujG-wWI7Bc7ZHjsEoHr6Y1WlSabFChbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
